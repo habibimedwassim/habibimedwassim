@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have experience in :
+I'm a game-dev student and I have some experience in :
 - 🎮 Making video-games (2D, 3D & VR) using Unity Game Engine.
 - 🎨 3D modeling/design using Blender, 3DsMax & Maya.
 - 🎨 2D pixel art using Aseprite.
@@ -23,3 +23,4 @@ I have experience in :
 - 🧑🏼‍💻 Front-end development using HTML, CSS, JS & React
 - 🧑🏼‍💻 Back-end development using JS & NodeJS.
 - ⚡ SQL databases & NoSQL MongoDB.
+- 🐧 Making scripts & themes for linux.
