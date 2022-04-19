@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have experience in :
+- 🎮 Making video-games (2D, 3D & VR) using Unity Game Engine.
+- 🎨 3D modeling/design using Blender, 3DsMax & Maya.
+- 🎨 2D pixel art using Aseprite.
+- 🎨 UI design using Adobe XD, photoshop & illustrator.
+- 📱 Making mobile apps using Dart/Flutter.
+- 🧑🏼‍💻 Front-end development using HTML, CSS, JS & React
+- 🧑🏼‍💻 Back-end development using JS & NodeJS.
+- ⚡ SQL databases & NoSQL MongoDB.
