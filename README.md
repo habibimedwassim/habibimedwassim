@@ -1,11 +1,10 @@
 Hi 👋 My name is Habibi Med Wassim
 ==================================
 
-Game || Web || Mobile Developer/Designer
+Software Engineer | Full Stack Developer
 ----------------------------------------
 
 * ✉️  You can contact me at [habibimedwassim@gmail.com](mailto:habibimedwassim@gmail.com)
-* 🧠  I'm learning UI/UX
 * 🤝  I'm open to collaborating on interesting "Open Source" projects
 * ⚡  I make linux scripts & themes...Just for fun!
 
