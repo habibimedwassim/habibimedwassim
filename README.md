@@ -18,9 +18,6 @@ I'm Wassim, Full-Stack Engineer & Occasional Chaos Engineer 👨‍💻<br>I bui
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=habibimedwassim&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=habibimedwassim&icon=0&color=0)](https://visitcount.itsvg.in)
 
