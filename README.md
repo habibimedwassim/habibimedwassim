@@ -1,21 +1,52 @@
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px" alt="Waving Hand"/>
-  Hi, I'm Wassim!
-  <img align="right" src="https://komarev.com/ghpvc/?username=habibimedwassim" alt="GitHub profile views counter">
-</h1>
+
+<!-- replaced heading block to align text and profile counter -->
+<div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
+  <div style="display:flex; align-items:center; gap:12px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="Waving Hand"/>
+    <h1 style="margin:0;">Hi, I'm Wassim!</h1>
+  </div>
+
+  <div style="margin-left:auto;">
+    <img src="https://komarev.com/ghpvc/?username=habibimedwassim" alt="GitHub profile views counter" style="height:28px;">
+  </div>
+</div>
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="Coder animation"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" alt="Rocket Emoji"/> I build things that actually work (most days).</div>
+<!-- Rocket heading aligned with its icon -->
+<h3 style="display:flex; align-items:center; gap:10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="Rocket Emoji"/>
+  <span style="vertical-align:middle;">I build things that actually work (most days).</span>
+</h3>
 
-<ul>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px" alt="Computer"/> Full-Stack Engineer mixing stacks like a mad scientist</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px" alt="Medal"/> Shipping scalable architectures & automating boring things</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25px" alt="Brain"/> Obsessed with clean code, DevOps, Linux, game dev</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25px" alt="Lightning"/> Atomic commits, strong coffee, late-night debugging</li>
+<ul style="list-style:none; padding-left:0;">
+  <li style="margin:6px 0;">
+    <div style="display:flex; align-items:center; gap:10px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" alt="Computer"/>
+      <span>Full-Stack Engineer mixing stacks like a mad scientist</span>
+    </div>
+  </li>
+  <li style="margin:6px 0;">
+    <div style="display:flex; align-items:center; gap:10px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25" alt="Medal"/>
+      <span>Shipping scalable architectures &amp; automating boring things</span>
+    </div>
+  </li>
+  <li style="margin:6px 0;">
+    <div style="display:flex; align-items:center; gap:10px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" alt="Brain"/>
+      <span>Obsessed with clean code, DevOps, Linux, game dev</span>
+    </div>
+  </li>
+  <li style="margin:6px 0;">
+    <div style="display:flex; align-items:center; gap:10px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25" alt="Lightning"/>
+      <span>Atomic commits, strong coffee, late-night debugging</span>
+    </div>
+  </li>
 </ul>
 
 <div align="center">
@@ -43,5 +74,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=habibimedwassim&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
