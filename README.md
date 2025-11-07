@@ -24,7 +24,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+<br/>
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/habibimedwassim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habibimedwassim@gmail.com) 
 
