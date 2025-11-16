@@ -5,9 +5,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=habibimedwassim" alt="GitHub profile views counter">
 </h1>
 
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="Coder animation"/>
-</div>
+
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" alt="Rocket Emoji"/> I build things that actually work (most days).</div>
 
